@@ -1,5 +1,17 @@
 # Imers-o_Dev
 
 Essa imersão durou 10 dias, e fizemos alguns projetos.
-![Imersão_dev](https://user-images.githubusercontent.com/79803635/117191650-2ff2e500-adb7-11eb-8c14-098d2b109e66.png)
+<div> 
+  <h2>Insígnias das Imersão.Dev</h2>
+  <ol>
+    <li>💴 Conversor De moeda </li>
+    <li>🔢 Calculadora</li>
+    <li>🔮 Mentalista</li>
+    <li>🎬 Aluraflix</li>
+    <li>🏆 Tabela de Classificação</li>
+    <li>🃏 Supertrunfo</li>
+    <li>🌐 Certificard</li>
+  </ol>
+
+</div>
 
